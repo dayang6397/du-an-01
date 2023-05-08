@@ -2,3 +2,8 @@ html{
     color: blue;
     background-color: antiquewhite;
 }
+ul{
+    display: flex;
+    background-repeat: 
+    no-repeat;
+}
